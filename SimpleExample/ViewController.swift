@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         let a  = 10;
         let b  = 40;
+        var k  = 50;
+        
         
         
         // Do any additional setup after loading the view.
